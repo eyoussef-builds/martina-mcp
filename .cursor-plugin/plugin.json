@@ -1,0 +1,23 @@
+{
+  "name": "martina",
+  "displayName": "Martina",
+  "version": "1.0.0",
+  "description": "Nine AI marketing teammates for outreach, lead scouting, launches, SEO/GEO/AEO, social media, brand design and video.",
+  "author": {
+    "name": "Martina",
+    "email": "hello@trymartina.com"
+  },
+  "homepage": "https://getmartina.com/",
+  "license": "MIT",
+  "keywords": [
+    "marketing",
+    "outreach",
+    "lead-generation",
+    "seo",
+    "geo",
+    "aeo",
+    "social-media",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg"
+}

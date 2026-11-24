@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "martina": {
+      "url": "https://getmartina.com/api/mcp"
+    }
+  }
+}

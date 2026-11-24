@@ -40,6 +40,12 @@ claude mcp add --transport http martina https://getmartina.com/api/mcp --scope u
 
 Then authenticate through `/mcp`. Read the [Claude Code setup guide](https://getmartina.com/docs/claude-code) for current instructions and [agent access guide](https://getmartina.com/docs/agent-access) for client differences. Martina’s scheduled workflows require Claude Code or Codex; other compatible MCP clients can request individual tasks.
 
+## Add to Kiro
+
+[![Add to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=Martina&config=%7B%22url%22%3A%22https%3A%2F%2Fgetmartina.com%2Fapi%2Fmcp%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D)
+
+This install link contains only the public server URL and keeps tool auto-approval empty. Sign in through OAuth after adding the connector.
+
 ## Example requests
 
 - Ask Otto, Remy and Lina to prepare outreach drafts for my product using the Business Brain.

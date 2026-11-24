@@ -62,6 +62,7 @@ These are suggested requests based on Martina’s published teammate roles, not 
 - [Privacy policy](https://getmartina.com/privacy)
 - [Service terms](https://getmartina.com/terms)
 - Support: hello@trymartina.com
+- [Martina on Glama](https://glama.ai/mcp/connectors/com.getmartina/martina)
 - Official MCP Registry name: `com.getmartina/martina`
 
 ## Scope of this repository
